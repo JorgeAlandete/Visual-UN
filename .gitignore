@@ -1,0 +1,56 @@
+# =========================
+# Template
+# =========================
+/assignment_template
+
+# =========================
+# General / OS
+# =========================
+.DS_Store
+*.log
+
+# =========================
+# THREE JS / NODE
+# =========================
+**/threejs/node_modules/
+**/threejs/.env
+**/threejs/dist/
+**/threejs/build/
+**/threejs/.vscode/
+
+# =========================
+# UNITY
+# =========================
+**/unity/Library/
+**/unity/Temp/
+**/unity/Obj/
+**/unity/Build/
+**/unity/Builds/
+**/unity/Logs/
+**/unity/MemoryCaptures/
+**/unity/.vscode/
+**/unity/*.csproj
+**/unity/*.unityproj
+**/unity/*.sln
+**/unity/*.user
+
+# =========================
+# PYTHON
+# =========================
+**/python/.ipynb_checkpoints/
+**/python/*.pyc
+**/python/__pycache__/
+**/python/.env
+**/python/venv/
+**/python/.venv/
+
+# =========================
+# PROCESSING
+# =========================
+**/processing/*.class
+**/processing/*.jar
+**/processing/*.exe
+**/processing/*.log
+**/processing/*.tmp
+**/processing/*.svg
+**/processing/*.zip
