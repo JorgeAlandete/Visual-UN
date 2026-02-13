@@ -40,3 +40,25 @@ export default Model;
 
 #### Triángulos del modelo dibujados con wireframe
 <img src="./media/bear_triangles.png" alt="Sample Image" width="400"/>
+
+### Python con Open3D y Ploty
+Para poder realizar esta implementación se siguieron los siguientes pasos:
+1. Instalar tanto Open3D como Ploty usando pip
+2. Cargar el mesh del archivo .obj usando o3d
+3. Computar los normales
+4. Usar mesh3d para las caras y Scatter para los vertices (ambos de ploty)
+5. Imprimir la imagen usando ploty
+
+#### Modelo cargado en colab
+<img src="./media/bunny_python.png" alt="Sample Image" width="400"/>
+
+
+#### Datos de vértices y aristas en Python
+<img src="./media/bunny_dots.png" alt="Sample Image" width="400"/>
+
+## Aprendizajes y dificultadoes
+* Es dificil utilizar algunas librerías para hacer el render de los modelos cuando se trabaja en Colab, puesto que estas pueden presentar errores.
+* El tamaño del modelo puede generar problemas al cargarlo.
+
+## Referencias
+* [Open3D Visualize in Google Colab](https://colab.research.google.com/drive/1CR_HDvJ2AnjJV3Bf5vwP70K0hx3RcdMb)
