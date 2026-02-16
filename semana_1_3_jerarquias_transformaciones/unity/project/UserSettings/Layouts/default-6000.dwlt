@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1532.8
     height: 764.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 1022.39996
     height: 462.4
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 15}
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 265.6001
     height: 708.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -613,10 +613,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
+    m_HSlider: 1
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -628,14 +628,14 @@ MonoBehaviour:
       width: 1020.39996
       height: 415.4
     m_Scale: {x: 1.25, y: 1.25}
-    m_Translation: {x: 510.19995, y: 207.70001}
+    m_Translation: {x: 510.19992, y: 207.70001}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -408.15997
+      x: -408.15994
       y: -166.16
       width: 816.31995
       height: 332.32
@@ -690,11 +690,12 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 45234
+      - m_Data: 45706
       m_LastClickedID:
-        m_Data: 0
+        m_Data: 45706
       m_ExpandedIDs:
-      - m_Data: -1294
+      - m_Data: -1296
+      - m_Data: 45610
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1284,7 +1285,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.15451102, y: 0.3252715, z: -0.05395954, w: 0.93136156}
     speed: 2
-    m_Value: {x: 0.1545094, y: 0.3252681, z: -0.053958975, w: 0.9313518}
+    m_Value: {x: -0.15451103, y: -0.32527152, z: 0.05395954, w: -0.9313616}
   m_Size:
     m_Target: 2.3523304
     speed: 2
@@ -1457,8 +1458,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 45234
-    m_LastClickedInstanceID: 45234
+    - m_Data: 45706
+    m_LastClickedInstanceID: 45706
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
