@@ -166,7 +166,7 @@ Despues de esto se generó un gráfico interactivo con Plotly, el cual permite m
 
 Aplicar transformaciones homogéneas en coordenadas 2D y 3D, comprender la composición de transformaciones, realizar cambios de base entre sistemas de referencia, y aplicar estos conceptos en robótica y gráficos por computador.
 
-![alt text](/media/Unity_Carro.png)
+![alt text](./media/Unity_Carro.png)
 
 Sobre las llantas se realizan transformaciones de rotación, haciendo una trasformacion diferente sobre cada una de las llantas.
 
@@ -203,11 +203,11 @@ public class Llanta_matrix : MonoBehaviour
 
 Se dibujaron los ejes con locales del objeto en la escena usando Gizmos, extendiendo cada linea desde la posición del objeto hasta 1 cordenada.
 
-![alt text](/media/Unity_ejes.png)
+![alt text](./media/Unity_ejes.png)
 
 Asi ejecutando las rotaciones de las llantas y una traslacion constante sobre el Chasis se genera la siguiente animacion
 
-![alt text](/media/Unity_animacion.gif)
+![alt text](./media/Unity_animacion.gif)
 
 
 ## Aprendizajes y dificultades
