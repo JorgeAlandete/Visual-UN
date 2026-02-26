@@ -1,5 +1,4 @@
 # Simulación de Cámara Pinhole: Calibración y Distorsión
-[Nombre del Estudiante]
 
 Entregado: 27 Feb 2026
 
